@@ -1,6 +1,6 @@
-# SchemeSathi — Advanced Multi-Factor Government Scheme Recommendation & AI Assistant Portal
+# SchemeSarthi — Advanced Multi-Factor Government Scheme Recommendation & AI Assistant Portal
 
-**SchemeSathi** is an intelligent, full-stack citizen portal for discovering, verifying, and navigating Indian Central and State government welfare schemes. 
+**SchemeSarthi** is an intelligent, full-stack citizen portal for discovering, verifying, and navigating Indian Central and State government welfare schemes. 
 
 It combines **100% deterministic, rule-based legal eligibility verification** (guaranteeing zero LLM hallucinations) with **multi-dimensional relevance scoring**, **category affinity**, **profile-gap unlock insights**, an interactive **What-If Eligibility Simulator**, and an **AI Assistant orchestrated via LangGraph and Groq (`llama-3.3-70b-versatile`)**.
 
